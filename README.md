@@ -1,5 +1,7 @@
 # DE-NAF
 
+The code for our work [DE-NAF: Decoupled Neural Attenuation Fields for Sparse-View CBCT Reconstruction], which will be published in Pattern Analysis and Applications.
+
 ## 1.Setup
 
 We recommend using [Conda](https://docs.conda.io/en/latest/miniconda.html) to set up an environment.
@@ -40,7 +42,7 @@ python dataGenerator/generateData.py --ctName XXX --outputName XXX_50
 ## 3.Training and evaluation
 Experiments settings are stored in `./config` folder.
 
-For example, train DE-NAF with `chest_50` dataset:
+For example, train DE-NAF with `chest` dataset:
 
 ``` sh
 python train.py --config ./config/chest.txt
@@ -49,18 +51,7 @@ The evaluation outputs will be saved in `./log` folder.
 
 ## Citation
 
-Cite as below if you find this repository is helpful to your project.
-
-```sh
-@inproceedings{zha2022naf,
-  title={NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction},
-  author={Zha, Ruyi and Zhang, Yanhao and Li, Hongdong},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={442--452},
-  year={2022},
-  organization={Springer}
-}
-```
+Our work is about to be published. Please cite our work if you find this repository helpful to your project.
 
 ## Acknowledgement
 * NAF and TensoRF inspired our work. [naf_cbct](https://github.com/Ruyi-Zha/naf_cbct.git) and [TensoRF](https://github.com/apchenstu/TensoRF.git).
