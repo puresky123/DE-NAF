@@ -1,0 +1,6 @@
+__pycache__
+*.pickle
+logs/
+*.zip
+TIGRE*/
+dataGenerator/raw/
