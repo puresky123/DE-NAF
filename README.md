@@ -54,5 +54,5 @@ The evaluation outputs will be saved in `./log` folder.
 Our work is about to be published. Please cite our work if you find this repository helpful to your project.
 
 ## Acknowledgement
-* NAF and TensoRF inspired our work. [naf_cbct](https://github.com/Ruyi-Zha/naf_cbct.git) and [TensoRF](https://github.com/apchenstu/TensoRF.git).
+* NAF, TensoRF and S3IM inspired our work. [naf_cbct](https://github.com/Ruyi-Zha/naf_cbct.git), [TensoRF](https://github.com/apchenstu/TensoRF.git) and [S3IM](https://github.com/Madaoer/S3IM-Neural-Fields.git).
 * The datasets are processed through [TIGRE toolbox](https://github.com/CERN/TIGRE.git).
