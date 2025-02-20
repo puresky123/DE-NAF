@@ -52,6 +52,7 @@ The evaluation outputs will be saved in `./log` folder.
 ## Citation
 
 Please citing our work if you find this repository helpful to your project.
+```
 @article{zhao2025naf,
   title={DE-NAF: decoupled neural attenuation fields for sparse-view CBCT reconstruction},
   author={Zhao, Tianning and Ding, Guoping and Liu, Zhenyang and Hu, Peng and Wei, Hangping and Tan, Min and Ding, Jiajun},
@@ -62,6 +63,7 @@ Please citing our work if you find this repository helpful to your project.
   year={2025},
   publisher={Springer}
 }
+```
 
 ## Acknowledgement
 * [NAF](https://github.com/Ruyi-Zha/naf_cbct.git), [TensoRF](https://github.com/apchenstu/TensoRF.git) and [S3IM](https://github.com/Madaoer/S3IM-Neural-Fields.git) inspired our work.
