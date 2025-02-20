@@ -1,6 +1,6 @@
 # DE-NAF
 
-The code for our work [DE-NAF: Decoupled Neural Attenuation Fields for Sparse-View CBCT Reconstruction], which will be published in Pattern Analysis and Applications.
+The code for our work [DE-NAF: Decoupled Neural Attenuation Fields for Sparse-View CBCT Reconstruction].
 
 ## 1.Setup
 
