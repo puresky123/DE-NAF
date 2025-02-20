@@ -1,6 +1,6 @@
 # DE-NAF
 
-The code for our work [DE-NAF: Decoupled Neural Attenuation Fields for Sparse-View CBCT Reconstruction].
+The code for our work [DE-NAF: Decoupled Neural Attenuation Fields for Sparse-View CBCT Reconstruction](https://link.springer.com/article/10.1007/s10044-025-01416-x).
 
 ## 1.Setup
 
@@ -51,7 +51,17 @@ The evaluation outputs will be saved in `./log` folder.
 
 ## Citation
 
-Our work is about to be published. Please cite our work if you find this repository helpful to your project.
+Please citing our work if you find this repository helpful to your project.
+@article{zhao2025naf,
+  title={DE-NAF: decoupled neural attenuation fields for sparse-view CBCT reconstruction},
+  author={Zhao, Tianning and Ding, Guoping and Liu, Zhenyang and Hu, Peng and Wei, Hangping and Tan, Min and Ding, Jiajun},
+  journal={Pattern Analysis and Applications},
+  volume={28},
+  number={1},
+  pages={35},
+  year={2025},
+  publisher={Springer}
+}
 
 ## Acknowledgement
 * [NAF](https://github.com/Ruyi-Zha/naf_cbct.git), [TensoRF](https://github.com/apchenstu/TensoRF.git) and [S3IM](https://github.com/Madaoer/S3IM-Neural-Fields.git) inspired our work.
